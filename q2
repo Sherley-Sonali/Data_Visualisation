@@ -1,0 +1,10 @@
+What is the age distribution of participants, and does it correlate with 
+performance? 
+Suggested Visualization: Heatmap (A Scatter Plot)
+• Details: The heatmap will have events on the x-axis, with each column 
+representing a specific event, and age groups on the y-axis, divided into 
+consistent intervals (e.g., 10–20, 21–30, etc.). The colour gradient will represent 
+the performance metric, with lighter colours indicating lower performance and 
+darker or more saturated colours showing higher performance levels. 
+ Purpose: Offers insights into age-based preferences and performance trends, 
+helping tailor events to participant demographics. 
