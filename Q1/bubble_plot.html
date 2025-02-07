@@ -384,7 +384,7 @@
             const totalWidth = data.length * labelSpacing;
             const xScale = d3.scaleBand()
                 .domain(data.map(d => d.Event))
-                .range([0, totalWidth])
+                .range([-5, totalWidth])
                 .padding(0.2);
 
             const yScale = d3.scaleBand()
